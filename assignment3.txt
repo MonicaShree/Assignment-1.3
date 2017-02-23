@@ -1,0 +1,49 @@
+Explain the following Linux commands with an example. Share the screenshot of each
+command with the output:
+
+
+
+1. pwd : Print working directory . prints the name of the current working directory . 
+EG : pwd
+
+2. vi : used to start the visual mode for editing a file .
+EG: vi filename
+
+3. touch : Creates a new empty file also used to Change the  timestamps . 
+EG: touch filename.txt
+
+4. mkdir  : Make directory . used to make a directory .
+EG: mkdir dir1
+
+5. rm : remove directory . It is used to remove directory .
+EG:rm file1.txt
+
+6. ls : List . It is used to list the files .
+EG:ls -a
+
+7. echo : It prints in the screen or file .
+EG:echo hi  
+
+8. cat : Used to view, create, concat multiple files at the the same time .
+EG: cat std.txt 
+
+9. who : Prints infromation about all users who are logged in .
+EG:who
+ 
+10. cd  :change directory .Used to change the current directory .
+EG:cd f1/f2
+ 
+11. date : It displays the date of the system .
+EG: date
+
+12. cal : calendar . It displays the calendar in the terminal 
+EG: cal
+
+13. mv : move .It is used to move the source file to directory .
+EG: mv file1 dir1
+
+14. cp : copy . Used to make a copy of file or directory .
+EG:cp file newfile
+
+15. which :used for finding the pathname of file which will be executed.
+EG: which sh 
